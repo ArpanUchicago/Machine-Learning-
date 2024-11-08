@@ -13,3 +13,9 @@ Assignment 6 - Image Classification with CNN and CIFAR-10 dataset
 
 Assignment 7 - Detect computer security breach using RNNs and LSTMs
 
+Assignment 8 - Generate new picture using VAE
+1. Train VAE
+2. Sample the latent space
+3. Generate images
+4. New Input data
+
